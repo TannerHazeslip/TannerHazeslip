@@ -9,8 +9,8 @@
  -[Configuring On-premises Active Directory within Azure VMs](insert link here)
  -[Network Security Groups (NSGs) and Inspecting Network Protocols](insert link here)
 
- <h2> /h2Contact me:</h2>
- [<img align="left" alt"Tanner | Gmail" width="22px" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI"/>][gmail]
+ <h2> Contact me:</h2>
 
- [gmail]: Tannerhazeslip12@gmail.com
+
+ gmail: Tannerhazeslip12@gmail.com
  
