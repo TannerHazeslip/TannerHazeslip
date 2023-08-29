@@ -15,4 +15,4 @@
 [<img align="left" alt="Tanner | Gmail" width="30px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" />][gmail]
 
 
-[Gmail]: https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png
+[Gmail]: Tannerhazeslip12@gmail.com
