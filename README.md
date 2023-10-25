@@ -5,5 +5,5 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TannerHazeslip/osticket-prereqs/blob/main/README.md)
 - <b>Microsoft Azure</b>
-
+ - [osTicket: Configuring On-Premise Active Directory within Azure VMs](https://github.com/TannerHazeslip/Configure-ad)
 
